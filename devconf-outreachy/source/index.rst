@@ -143,16 +143,21 @@ Why mentor with @Outreachy?
 
 .. Things to talk about ^ (dtantsur)
 
-  One reason for being a mentor is to contribute back to the community which shaped
-  us - the grown up programmers.
+  So, why become a mentor?
 
-  We are the products of this culture, and need to sustain it to stay happy.
+  Community is about contributing. Not only contributing the code, but also
+  helping the community grow and grow healthy. Mentoring new members is an
+  essential part of the community growth, and diversity in a necessary part of
+  a community health.
 
-  Meeting new and diverse people helps us to improve personally.
+  Teaching can be quite rewarding - we learn things better when we explain them.
+  Mentoring helps looking at your project from new angles, understanding what
+  is hard and what is eays, what is confusing and what is straightforward.
+  Mentoring also makes you look at yourself and improve yourself as you help
+  others improve.
 
-  Teaching can be quite rewarding - we learn new things when we explain them.
-
-  Finally, Outreachy brings motivated and productive contributors to our projects.
+  And of course, Outreachy brings new motivated and productive contributors
+  to your project.
 
 Aija's internship @OpenStack
 ----------------------------
@@ -215,6 +220,23 @@ OpenStack: Everybody struggles
   - It takes time to become egoless and a good community citizen
 
 .. Things to talk about ^ (dtantsur)
+
+  OpenStack is not a trivial project to contribute to. It's huge, its code base
+  is vast and complex. It consists of many projects interacting with each other
+  in non-trivial way. The development workflow takes time and effort to get
+  used to, and it's hard, if possible at all, to run OpenStack at home.
+
+  On the social side of things such big projects can also pose a few
+  challenges. The core team is usually overloaded, has its own priority, so
+  reviews can take long.. or really long. Days, weeks or even months.
+  It's really different from what some people expect, especially coming from
+  proprietary software background.
+
+  And feedback itself can be presented and received in different ways. Some
+  people are more polite, some are more direct, some way too direct. Some are
+  burned down and cannot express themselves clearly. Newcomers, and even
+  sometimes experienced contributors, tend to take feedback too personally.
+  Getting used to it requires work.
 
 Outreachy application period
 ----------------------------
@@ -359,32 +381,27 @@ Psychologically:
 
 .. Things to talk about ^ (dtantsur)
 
-  Mentorship can be difficult, but rewarding.
+  Some tips for a good mentor.
 
-  You are likely to stay engaged with the intern on a daily basis,
-  making sure they are not stuck and remain challenged. This requires
-  time and dedication.
+  Keep the intern engaged the whole time, keep in touch with them,
+  make sure they are not stuck and remain challenged. With the slow review
+  process it's easy to get distracted, lose focus or motivation, so help them
+  stay focused.  Help them planning their workflow, make sure small achivements
+  are noticed and recognized.
 
-  Considering the many moving parts in OpenStack, it is easy to get
-  distracted from one project to the other. This is also prompted
-  by long running reviews. Keeping the intern focused on their goals
-  is one of the things to focus on.
+  Good mentors should help interns to network with the remaining community.
+  Introduce them to other members, point to a few other contributors they can
+  talk to, introduce the project leader. Ask them to review other's code, it's
+  important for overcoming the fear of feedback and for understanding the
+  project as well.
 
-  Good mentors should help interns to network with the community
-  through IRC chat and code reviews. Building community is the goal
-  here.
+  You have to be aware of different psychological settings, avoid being biased
+  yourself and help the intern to overcome the bias. Community requires putting
+  trust in other members, giving them some credit.
 
-  Being remote, it may be hard to read the intern's mind. We humans
-  are good at using our biases to build a substitute for
-  insufficient perception. That's a thing to stay away from.
-
-  No matter how experienced one may be, there will always be areas
-  in contemporary technology in which the mentors may not know much.
-  Therefore, sometimes we think of the mentorship as a research
-  collaboration, not so much as a benevolent master / dutiful
-  apprentice kind of interaction.
-
-  After all, the internship should be a positive and fun experience.
+  We think of the mentorship as a collaboration of colleagues, not as a master /
+  apprentice kind of interaction. After all, the internship should be
+  a positive and fun experience.
 
 Signs of a successful intern
 ----------------------------
